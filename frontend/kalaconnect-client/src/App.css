@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f8f5f1;
+}
+
+.app {
+    min-height: 100vh;
+}
+
+.header {
+    background: #3b245f;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+.dashboard {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.dashboard h2 {
+    color: #3b245f;
+}
+
+.status-card {
+    background: white;
+    padding: 25px;
+    margin: 20px 0;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+}
+
+.status-card span {
+    color: #16834a;
+    font-weight: bold;
+}

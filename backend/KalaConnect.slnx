@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="KalaConnect.Application/KalaConnect.Application.csproj" />
+  <Project Path="KalaConnect.Domain/KalaConnect.Domain.csproj" />
+  <Project Path="KalaConnect.Infrastructure/KalaConnect.Infrastructure.csproj" />
+  <Project Path="KalaConnect.WebAPI/KalaConnect.WebAPI.csproj" />
+</Solution>

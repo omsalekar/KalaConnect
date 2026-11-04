@@ -1,0 +1,6 @@
+@KalaConnect.WebAPI_HostAddress = http://localhost:5145
+
+GET {{KalaConnect.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
